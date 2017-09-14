@@ -1,3 +1,6 @@
+/* slock configuration */
+/* See LICENSE file for copyright and license details. */
+
 /* user and group to drop privileges to */
 static const char *user  = "nobody";
 static const char *group = "nogroup";
